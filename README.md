@@ -1,3 +1,3 @@
 # Java1Ects
 Java hw
-Aibat Abdizhalel MDT studet 
+Aibat Abdizhalel MDT student 
